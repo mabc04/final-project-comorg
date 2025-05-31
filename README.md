@@ -1,5 +1,3 @@
-Student: Mark Anthony Cabidog
-
 Title: Buffer Overflow Exploit Using Custom Assembly Shellcode
 
 Description:
@@ -16,5 +14,3 @@ Tools Used:
 - NASM
 - GCC (with protections disabled)
 - GDB (for address finding)
-
-All work is for educational purposes in a secure test environment.
